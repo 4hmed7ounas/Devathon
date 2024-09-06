@@ -7,12 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-<<<<<<< AY/2-featadd-login-signup-pages
           Saad <code>src/App.js</code> and save to reload.
-        </p>
-        <p>
-          Ahmed <code>src/App.js</code> and save to reload.
->>>>>>> Development
         </p>
         <a
           className="App-link"
